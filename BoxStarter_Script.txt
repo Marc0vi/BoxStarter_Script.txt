@@ -1,0 +1,9 @@
+Set-ExplorerOptions -showProtectedOSFiles -showFileExtensions
+
+Enable-RemoteDesktop
+
+cinst brave
+
+cinst google-chrome-x64
+
+cinst ccleaner
